@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasinworks
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning something
+- 👀 I’m Front-End junior developer
+- 🌱 I’m currently learning Back-End technologies
 
 <!---
 yasinworks/yasinworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
