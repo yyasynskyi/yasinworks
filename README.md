@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yasinworks
-- 👀 I’m Front-End developer
-- 🌱 Looking for job
+- I’m Front-End developer
+- Looking for job
 
 <!---
 yasinworks/yasinworks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
