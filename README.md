@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yasinworks
+- 👋 Hi, I’m @yyasynskyi
 - I’m Front-End developer
 - Looking for job
 
